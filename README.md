@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Oaempt1
-- 👀 I’m interested in Anime
-- 🌱 I’m currently learning Programming 
-- 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me oassis19eng@gmail.com
+Hello I am Olavo Assis
+
+A 3rd Year Computer Engineering Student in Angola
+
+I like designing and creating Dynamic and Responsive Web Apps 
+
+Currently working on personal projects 
+
+Current Tech Stack is HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS and tools like Figma
+
+You can Reach me by email at oassis19eng@gmail.com
 
 <!---
 Oaempt1/Oaempt1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
