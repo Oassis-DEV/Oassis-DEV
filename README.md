@@ -6,7 +6,9 @@ I like designing and creating Dynamic and Responsive Web Apps
 
 Currently working on personal projects 
 
-Current Tech Stack is HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS and tools like Figma
+Learning JAVASCRIPT, TYPESCRIPT, JAVA AND C/C++, PYTHON
+
+Current Tech Stack is HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS, JAVA, C/C++, PYTHON and FIGMA,
 
 You can Reach me by email at oassis19eng@gmail.com
 
