@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oaempt1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaempt1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oassis-DEV&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oassis-DEV&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160">
 </p>
 
 ### 📬 Get in Touch
